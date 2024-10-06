@@ -84,7 +84,7 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "--------------------------------------------------------------------------------------------------",
+      "We approached Minenhle with a dream, and he turned it into a reality. We are very happy with our new website—it looks professional and is very easy to navigate. Our experience with his customer service was amazing; he paid attention to every detail we wanted, was always available, and very punctual. He met the deadline we set for him. His services are a bargain when we weighed the cost against the quality of the product we received. We highly recommend him to anyone looking for a modern and professional website. Keep up the good work, Minenhle!👍🏾",
     name: "Sandile Cele",
     title: "CEO & Co-Founder of Something Spicy SA",
   },
