@@ -79,6 +79,14 @@ export const projects = [
     iconLists: ["/tail.svg", "/next.svg", "/ts.svg", "/firebase.svg"],
     link: "https://somethingspicy.co.za/",
   },
+  {
+    id: 2,
+    title: "Dynamic Musician Portfolio",
+    des: "Features music/video players, booking form, and a CMS for easy content updates.",
+    img: "/musician.png",
+    iconLists: ["/tail.svg", "/next.svg", "/ts.svg", "/firebase.svg"],
+    link: "https://master-m101.vercel.app/",
+  },
 ];
 
 export const testimonials = [
@@ -87,6 +95,14 @@ export const testimonials = [
       "Minenhle turned our dream into reality. We’re thrilled with our professional, easy-to-navigate website. His customer service was excellent—he paid attention to every detail, was always available, and punctual. He met our deadline, and his services were a bargain for the quality we received. We highly recommend him for a modern, professional website. Great job, Minenhle!👍🏾",
     name: "Sandile Cele",
     title: "CEO & Co-Founder of Something Spicy SA",
+    image: "/sandile.jpg",
+  },
+  {
+    quote:
+      "very pleased with the new website. It's exactly what I was looking for. Thank you for your excellent work!",
+    name: "Mthokozisi 'Master M' Chiliza",
+    title: "Musician",
+    image: "/master.png",
   },
 ];
 

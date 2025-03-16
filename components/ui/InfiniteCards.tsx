@@ -1,6 +1,7 @@
 "use client";
 
 import { cn } from "@/lib/utils";
+import { companies, testimonials } from "@/data";
 import React, { useEffect, useState } from "react";
 
 export const InfiniteMovingCards = ({
@@ -118,10 +119,11 @@ export const InfiniteMovingCards = ({
                 <div className="me-3">
                   <img
                     className="w-16 h-16 rounded-full"
-                    src="/Sandile.jpg"
+                    src={testimonials[idx].image}
                     alt="profile"
                   />
                 </div>
+
                 <span className="flex flex-col gap-1">
                   {/* change text color, font-normal to font-bold, text-xl */}
                   <span className="text-xl font-bold leading-[1.6] text-white">
